@@ -88,6 +88,7 @@ cursor: pointer;
     margin-top: 27px;
     padding-top: 18px;
     padding-bottom: 40px;
+    max-width: 1440px;
 }
 .section-tittle{
  color: rgb(13, 19, 33);
@@ -103,4 +104,48 @@ font-family: Azeret Mono;
 font-size: 16px;
 text-align: center;
 margin-top: 24px;
+}
+.txt-1{
+    color: #0D1321;
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+text-align: left;
+}
+.txt-2{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+text-align: left;
+margin-left: 144px;
+margin-right: 144px;
+}
+.learn-more{
+    width: 150px;
+height: 48px;
+border: 1px solid rgb(13, 19, 33);
+background-color: #FEFEFE;
+opacity: 0.7;
+color: #0D1321;
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+}
+
+.sec-card1{
+    background-color: white;
+    display: flex;
+    gap: 98px;
+    padding: 48px;
+    margin-left: 97px;
+    margin-right: 97px;
+    margin-top: 241px;
+}
+
+.sec-1{
+    background-color: #FAFAFB;
+    padding-top: 80px;
+    margin-top: 74px;
+
 }
