@@ -89,6 +89,8 @@ cursor: pointer;
     padding-top: 18px;
     padding-bottom: 40px;
     max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .section-tittle{
  color: rgb(13, 19, 33);
@@ -118,8 +120,7 @@ font-family: Azeret Mono;
 font-size: 16px;
 font-weight: 400;
 text-align: left;
-margin-left: 144px;
-margin-right: 144px;
+
 }
 .learn-more{
     width: 150px;
@@ -131,6 +132,7 @@ color: #0D1321;
 font-family: Azeret Mono;
 font-size: 20px;
 font-weight: 600;
+margin-top: 32px;
 }
 
 .sec-card1{
@@ -138,14 +140,45 @@ font-weight: 600;
     display: flex;
     gap: 98px;
     padding: 48px;
-    margin-left: 97px;
-    margin-right: 97px;
-    margin-top: 241px;
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-top: 110px;
 }
 
 .sec-1{
     background-color: #FAFAFB;
     padding-top: 80px;
     margin-top: 74px;
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 32px;
+    padding-bottom: 80px;
 
+}
+.sec2-tittle{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+text-align: center;
+}
+
+.titdt-2{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+text-align: center;
+margin-bottom: 68px;
+}
+
+iframe{
+    display: block;
+    width: 1076px;
+    height: 550px;
+    border-radius: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    padding: 28px;
 }
