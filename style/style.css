@@ -75,6 +75,7 @@ cursor: pointer;
 }
 .ban-button{
     text-align: center;
+    margin-top: 23px;
 }
 
 .ban-image{
@@ -243,4 +244,111 @@ font-weight: bold;
     margin-right: 200px;
     margin-left: 200px;
     margin-top: 35px;
+    margin-bottom: 110px;
+}
+.reactjscard{
+    display: flex;
+    justify-content: center;
+   gap: 24px;
+   border: 2px solid rgba(13, 19, 33, 0.15);
+   border-radius: 16px;
+   padding: 30px;
+   margin-left: 250px;
+   margin-right: 250px;
+   align-items: center;
+   margin-bottom: 24px;
+
+}
+.support{
+    color: rgba(255, 255, 255, 1);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 0;
+}
+.support2{
+    color:rgba(255, 255, 255, 1);
+font-family: Azeret Mono;
+font-size: 16px;
+text-align: center;
+margin-bottom: 68px;
+opacity: 0.6;
+}
+#suggetions{
+    width: 548px;
+    height: 48px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    font-family: Azeret Mono;
+    padding-left: 20px;
+    font-size: 16px;
+    color: #0D1321;
+}
+#sbmt{
+
+ width: 120px;
+    height: 50px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    font-family: Azeret Mono;
+    padding-left: 20px;
+    font-size: 16px;
+    color: #0D1321;
+    cursor: pointer;
+    padding-right: 20px;
+}
+.sugbut{
+    display: flex;
+    gap: 9px;
+    justify-content: center;
+}
+
+.lastsec{
+    background-image: url(/assets/handshakecopy.jpg);  
+    width: 1140px;
+    height: 314px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    background-repeat: no-repeat;
+    border-radius: 10px; 
+    background-size: contain;
+    margin-top: 40px;
+
+}
+.foot{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+/* text-align: center; */
+}
+footer{
+    background-color: #0D132108;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    margin-top: 25px;
+}
+
+.leg{
+    display: flex;
+    /* display: block; */
+    gap: 20px;
+}
+.pa{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.man{
+    display: flex;
+}
+#jump{
+    text-decoration: solid;
+    color:  rgb(255, 255, 255);
 }
